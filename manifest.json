@@ -1,0 +1,46 @@
+{
+  "name": "YASSERAGN - ياسر ",
+  "short_name": "YASSERAGN",
+  "start_url": "https://www.yasseragn.com/",
+  "display": "standalone",
+  "background_color": "#7600d6",
+  "theme_color": "#0076f5",
+  "description": "الموقع رقم 1 في شمال افريقيا | جديد التقنية و الهواتف",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s48/Logo-512-512.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s72/Logo-512-512.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s96/Logo-512-512.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s144/Logo-512-512.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s168/Logo-512-512.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s192/Logo-512-512.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHey0ORVX_FqFuAy0gebQnQUReOey3xY1MeHtxfQIJpkb-F1QIbscXmMq1cyQwQDS2jczJJFuuvp4mA77jcoRYk5d5wQrpjrTxWVldmtpPWAhOKtLzcwOvNia5YoRhX0Fd24aaIYN2780ewfpw0La4KJX1pyHbSo7133PEZaLgSKbLhDJRAihCZepuAMeB/s512/Logo-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
