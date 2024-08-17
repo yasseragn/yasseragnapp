@@ -268,7 +268,7 @@ const addEventListeners = (id) => {
 
 const init = async () => {
   try {
-    const res = await fetch("http://www.floatrates.com/daily/usd.json");
+    const res = await fetch("https://www.floatrates.com/daily/usd.json");
     const data = await res.json();
 
     if (res.ok) {
